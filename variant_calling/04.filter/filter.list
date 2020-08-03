@@ -1,0 +1,6 @@
+{
+  "mapQuality" : ">=1",
+  "insertSize" : "<10000",
+  "insertSize" : ">-10000",
+  "insertSize" : "!0"
+}

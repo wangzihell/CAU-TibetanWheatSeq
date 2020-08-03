@@ -1,0 +1,5 @@
+IWGSCv1.fa and Zang1817.fa are chromosome sequence of Chinese Sprint and Zang1817. To reduce size, demo data of these two file only contain first 10000 lines of each file.
+
+Demo data of IWGSCv1.fa and Zang1817.fa are in demo_data folder.
+
+Following the pipeline in 1.find_position.sh and then 2.anchor.sh to run this demo.

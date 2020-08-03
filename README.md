@@ -25,23 +25,23 @@ All softwares listed in system requirements could be downloaded and installed fo
 Demos and corresponding instructions are in each foler.
 
 ## Brief description of code in each folder
-Zang1817_assembly:  
+**Zang1817_assembly:**  
 Construction of pseudomolecules of Zang1817 genome.  
-variant_calling:  
+**variant_calling:**  
 SNPs/INDELs calling, filtering and annotating of samples used this study from raw fastq files to VCF files.  
-PAV:  
+**PAV:**  
 PAV calling between Chinese Spring IWGSC Refseq assembly and Zang1817 genome assembled in this study.  
-NJ_tree:  
+**NJ_tree:**  
 Neighbor joining tree construction and ploting from variants stored in VCF format.  
-PCA:  
+**PCA:**  
 PCA computation and ploting from VCF files.  
-Admixtue  
+**Admixtue:**  
 doing Admixtue analyze from VCF files.  
-GWAS:  
+**GWAS:**  
 Genome-wide scanning of candidate regions for rachis brittleness during wheat de-domestication process using GWAS analysis.  
-Fst:  
+**Fst:**  
 Genome-wide Fst scaning between HA(high altitude), LA(low altitude) and between DE(de-domesticated), DO(domesticated) wheat accessions.  
-pi-ratio:  
+**pi-ratio:**  
 Genome-wide Pi-ration(PiDO/PiDE) scaning between DE(de-domesticated) and DO(domesticated) wheat accessions.  
-CNVindex:  
+**CNVindex:**  
 Genome-wide CNVindex analyze between DE(de-domesticated) and DO(domesticated) wheat accessions.  

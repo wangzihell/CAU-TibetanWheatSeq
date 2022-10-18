@@ -45,5 +45,5 @@ Genome-wide Fst scaning between HA(high altitude), LA(low altitude) and between 
 Genome-wide Pi-ration(PiDO/PiDE) scaning between DE(de-domesticated) and DO(domesticated) wheat accessions.  
 **CNVindex:**  
 Genome-wide CNVindex analyze between DE(de-domesticated) and DO(domesticated) wheat accessions.  
-**Demography*:*  
+**Demography:**  
 Demographic simulation models testing for the origin Tibetan semi-wild wheat.  
